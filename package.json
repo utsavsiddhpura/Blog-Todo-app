@@ -1,7 +1,6 @@
 {
   "name": "develop",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +14,15 @@
     "method-override": "^3.0.0",
     "mongoose": "^6.4.0",
     "nodemon": "^2.0.16"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utsavsiddhpura/Blog-Todo-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utsavsiddhpura/Blog-Todo-app/issues"
+  },
+  "homepage": "https://github.com/utsavsiddhpura/Blog-Todo-app#readme",
+  "description": ""
 }
